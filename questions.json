@@ -223,5 +223,140 @@
     "d": "2/3",
     "e": "5/6",
     "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2022) Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00. A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores. Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+    "a": "14,4",
+    "b": "20,7",
+    "c": "22,0",
+    "d": "30",
+    "e": "37,5",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(ENEM 2022) Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos. A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+    "a": "0,125",
+    "b": "0,200",
+    "c": "4,800",
+    "d": "6,000",
+    "e": "12,000",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2022) Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. No planeta Z, seu ano corresponderia a quantos de seus dias?",
+    "a": "2,5",
+    "b": "10,0",
+    "c": "730,0",
+    "d": "13 322,5",
+    "e": "53 290,0",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(ENEM 2022) Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal. Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado. O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "a": "R$ 2,00 menor.",
+    "b": "R$ 100,00 menor.",
+    "c": "R$ 200,00 menor.",
+    "d": "R$ 42,00 maior.",
+    "e": "R$ 80,00 maior.",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(ENEM 2022) Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi",
+    "a": "135 000,00.",
+    "b": "1 350 000,00.",
+    "c": "13 500 000,00.",
+    "d": "135 000 000,00.",
+    "e": "1 350 000 000,00.",
+    "gabarito": "e"
+  },
+  {
+    "comando": "(ENEM 2022) Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "a": "2",
+    "b": "3",
+    "c": "6",
+    "d": "12",
+    "e": "24",
+    "gabarito": "e"
+  },
+  {
+    "comando": "(ENEM 2022) Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012. De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "a": "16 514.",
+    "b": "86 700.",
+    "c": "115 600.",
+    "d": "441 343.",
+    "e": "448 568.",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2022) A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1 2 . Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+    "a": "35/64",
+    "b": "40/64",
+    "c": "42/64",
+    "d": "44/64",
+    "e": "52/64",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2022) O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo. A empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos. A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+    "a": "50 000",
+    "b": "100 000",
+    "c": "200 000",
+    "d": "300 000",
+    "e": "400 000",
+    "gabarito": "e"
+  },
+  {
+    "comando": "(ENEM 2022) Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m. No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível. A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "a": "10",
+    "b": "13",
+    "c": "14",
+    "d": "15",
+    "e": "16",
+    "gabarito": "e"
+  },
+  {
+    "comando": "(ENEM 2022) Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+    "a": "8",
+    "b": "9",
+    "c": "11",
+    "d": "18",
+    "e": "24",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2022) Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante. Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+    "a": "1,80 e 0,60.",
+    "b": "1,80 e 0,70.",
+    "c": "1,90 e 0,80.",
+    "d": "2,00 e 0,90.",
+    "e": "2,00 e 1,00.",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(ENEM 2022) Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio. Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana. O número mínimo de dias necessários para a realização desse torneio é",
+    "a": "22",
+    "b": "25",
+    "c": "28",
+    "d": "48",
+    "e": "64",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2022) Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento. Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "a": "800",
+    "b": "1200",
+    "c": "2400",
+    "d": "4800",
+    "e": "6400",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(ENEM 2022) Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos. Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+    "a": "30 minutos ou menos.",
+    "b": "mais de 35 e menos de 45 minutos.",
+    "c": "mais de 45 e menos de 55 minutos.",
+    "d": "mais de 60 e menos de 70 minutos.",
+    "e": "70 minutos ou mais.",
+    "gabarito": "c"
   }
 ]
