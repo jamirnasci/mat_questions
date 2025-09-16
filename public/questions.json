@@ -448,5 +448,86 @@
     "d": "9",
     "e": "10",
     "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2024) em dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60 . A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100 , considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+    "a": "1,35",
+    "b": "3,00",
+    "c": "9,00",
+    "d": "12,60",
+    "e": "13,80",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2024) Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual f ixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do f inanciamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+    "a": "Fevereiro",
+    "b": "Abril",
+    "c": "Maio",
+    "d": "Junho",
+    "e": "Agosto",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(ENEM 2024) Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina. A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+    "a": "8250",
+    "b": "7920",
+    "c": "6545",
+    "d": "5500",
+    "e": "5280",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(ENEM 2024) Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma porção é R$ 25,00. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será R$ 15,00, e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo. A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção ?",
+    "a": "12,50",
+    "b": "20,00",
+    "c": "24,00",
+    "d": "30,00",
+    "e": "37,50",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2024) Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente. O valor correto da média das notas desse estudante é",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "19",
+    "e": "21",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2024) Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e, normalmente, 60% das pessoas adquirem meia-entrada, pagando R$ 65,00 pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de shows vende, com 60% de lucro, bebidas e petiscos ao público no dia do evento. Após ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50% o que estava previsto, impactando o faturamento estimado com a venda de ingressos. No dia do evento, decidiu-se manter o percentual de 60% de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de R$ 17 000,00 nesse evento. Para que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+    "a": "19,50",
+    "b": "28,80",
+    "c": "34,00",
+    "d": "52,00",
+    "e": "68,70",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(ENEM 2024) O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m. Em quantos metros quadrados a área do campo do Maracanã foi reduzida ?",
+    "a": "24",
+    "b": "35",
+    "c": "555",
+    "d": "1110",
+    "e": "1145",
+    "gabarito": "d"
+  },
+  {
+    "comando": "(ENEM 2024) O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m2. Considere que a escala da maquete exibida é 1 : 200. A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "a": "4,18",
+    "b": "8,36",
+    "c": "41,80",
+    "d": "83,60",
+    "e": "418,00",
+    "gabarito": "e"
+  },
+  {
+    "comando": "(ENEM 2024) Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível. Qual será a medida, em metro, do maior lado do galinheiro ?",
+    "a": "85",
+    "b": "100",
+    "c": "175",
+    "d": "200",
+    "e": "350",
+    "gabarito": "b"
   }
 ]
