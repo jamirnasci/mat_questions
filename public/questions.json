@@ -646,5 +646,86 @@
     "d": "10,50",
     "e": "10,65",
     "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2020) Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é",
+    "a": "13",
+    "b": "14",
+    "c": "17",
+    "d": "18",
+    "e": "21",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2020) A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm. Dado: 1 dm³ = 1 L. A escala usada pelo arquiteto foi",
+    "a": "1 : 10",
+    "b": "1 : 100",
+    "c": "1 : 1 000",
+    "d": "1 : 10 000",
+    "e": "1 : 100 000",
+    "gabarito": "b"
+  },
+  {
+    "comando": "(ENEM 2020) Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo. Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos ?",
+    "a": "160",
+    "b": "157",
+    "c": "130",
+    "d": "120",
+    "e": "60",
+    "gabarito": "a"
+  },
+  {
+    "comando": "(ENEM 2020) Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada. As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são",
+    "a": "2 quadrados e 4 retângulos.",
+    "b": "1 retângulo e 4 triângulos isósceles.",
+    "c": "2 quadrados e 4 trapézios isósceles.",
+    "d": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
+    "e": "2 retângulos, 2 quadrados e 2 trapézios retângulos.",
+    "gabarito": "c"
+  },
+  {
+    "comando": "(ENEM 2020) Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado. Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto ?",
+    "a": "4 301",
+    "b": "1 500",
+    "c": "930",
+    "d": "267",
+    "e": "93",
+    "gabarito": "e"
+  },
+    {
+    "comando": "(ENEM 2020) Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é",
+    "a": "R/2",
+    "b": "2 R",
+    "c": "4 R",
+    "d": "5 R",
+    "e": "16 R",
+    "gabarito": "b"
+  },
+    {
+    "comando": "(ENEM 2020) Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”. Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras. Nessas condições, o número de anagramas formados é dado por",
+    "a": "9!",
+    "b": "4! 5!",
+    "c": "2 x 4! 5!",
+    "d": "9! / 2",
+    "e": "4!5! / 2",
+    "gabarito": "e"
+  },
+    {
+    "comando": "(ENEM 2020) O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fi xará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido. Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fi xar para o grupo de três novos jogadores que ainda irá contratar ?",
+    "a": "1,96",
+    "b": "1,98",
+    "c": "2,05",
+    "d": "2,06",
+    "e": "2,08",
+    "gabarito": "D"
+  },
+    {
+    "comando": "(ENEM 2020) Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios. A fração do capital de cada sócio que Antônio deverá adquirir é",
+    "a": "1/2",
+    "b": "1/3",
+    "c": "1/9",
+    "d": "2/3",
+    "e": "4/3",
+    "gabarito": "c"
   }
 ]
