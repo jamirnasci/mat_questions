@@ -1,12 +1,14 @@
 [
   {
-    "comando": "Uma pesquisa sobre preferência de sabores de sorvete entrevistou 200 pessoas. Os resultados mostraram que 40% preferem chocolate, 30% preferem morango, 15% preferem baunilha e o restante não tem preferência. Quantas pessoas não têm preferência de sabor?",
+    "comando": "Uma pesquisa sobre preferência de sabores de sorvete entrevistou 200 pessoas. Os resultados mostraram que 40% preferem chocolate, 30% preferem morango, 15% preferem baunilha e o resta[...]",
     "a": "20 pessoas",
     "b": "25 pessoas",
     "c": "30 pessoas",
     "d": "35 pessoas",
     "e": "40 pessoas",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Estatística e Probabilidade"
   },
   {
     "comando": "Em um triângulo retângulo, a hipotenusa mede 13 cm e um dos catetos mede 5 cm. Qual é a medida do outro cateto?",
@@ -15,7 +17,9 @@
     "c": "12 cm",
     "d": "14 cm",
     "e": "15 cm",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Geometria"
   },
   {
     "comando": "Uma loja oferece um desconto de 25% em todos os produtos. Se um item custava R$ 120,00, qual será seu preço após o desconto?",
@@ -24,7 +28,9 @@
     "c": "R$ 85,00",
     "d": "R$ 90,00",
     "e": "R$ 95,00",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "",
+    "disciplina": "Aritmética e Proporções"
   },
   {
     "comando": "Qual é o valor da expressão (2³ + 4²) ÷ (5 - 3)?",
@@ -33,7 +39,9 @@
     "c": "14",
     "d": "16",
     "e": "18",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Aritmética"
   },
   {
     "comando": "Em uma escola com 400 alunos, 45% são meninas. Quantos meninos estudam nessa escola?",
@@ -42,7 +50,9 @@
     "c": "210",
     "d": "220",
     "e": "240",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "",
+    "disciplina": "Aritmética e Proporções"
   },
   {
     "comando": "Um reservatório em formato de cubo tem aresta de 3 m. Qual é a capacidade máxima deste reservatório em litros? (Considere 1 m³ = 1000 L)",
@@ -51,7 +61,9 @@
     "c": "27000 L",
     "d": "36000 L",
     "e": "54000 L",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Geometria Espacial"
   },
   {
     "comando": "A equação quadrática x² - 5x + 6 = 0 tem como raízes:",
@@ -60,7 +72,9 @@
     "c": "-2 e -3",
     "d": "0 e 5",
     "e": "1 e -6",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Álgebra"
   },
   {
     "comando": "Se log₂ 32 = x, então o valor de x é:",
@@ -69,7 +83,9 @@
     "c": "4",
     "d": "5",
     "e": "6",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "",
+    "disciplina": "Logaritmos"
   },
   {
     "comando": "Uma escada de 10 m está apoiada em uma parede, formando com o chão um ângulo de 60°. Qual a distância entre o pé da escada e a parede?",
@@ -78,7 +94,9 @@
     "c": "5√3 m",
     "d": "10 m",
     "e": "10√3 m",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "",
+    "disciplina": "Trigonometria"
   },
   {
     "comando": "Qual é a média aritmética simples dos números 12, 15, 18 e 25?",
@@ -87,7 +105,9 @@
     "c": "17,5",
     "d": "18",
     "e": "20",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Estatística"
   },
   {
     "comando": "Num triângulo retângulo, se sen θ = 3/5, então cos θ é igual a:",
@@ -96,7 +116,9 @@
     "c": "4/5",
     "d": "5/4",
     "e": "5/3",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Trigonometria"
   },
   {
     "comando": "A solução da inequação 2x - 5 < 7 é:",
@@ -105,7 +127,9 @@
     "c": "x < 12",
     "d": "x > 2",
     "e": "x > 6",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Álgebra"
   },
   {
     "comando": "Se f(x) = 3x² - 2x + 1, então f(2) é igual a:",
@@ -114,7 +138,9 @@
     "c": "9",
     "d": "11",
     "e": "13",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Álgebra"
   },
   {
     "comando": "Qual é o 10º termo da PA (3, 7, 11, ...)?",
@@ -123,7 +149,9 @@
     "c": "39",
     "d": "41",
     "e": "43",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Sequências e Progressões"
   },
   {
     "comando": "Simplificando a expressão (x² - 9)/(x - 3), obtemos:",
@@ -132,7 +160,9 @@
     "c": "x² + 3",
     "d": "x² - 3",
     "e": "x + 9",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Álgebra"
   },
   {
     "comando": "Se 5 operários constroem um muro em 12 dias, quantos dias levarão 8 operários para construir o mesmo muro?",
@@ -141,7 +171,9 @@
     "c": "7,5 dias",
     "d": "8 dias",
     "e": "9 dias",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Proporcionalidade"
   },
   {
     "comando": "Qual é o valor de x na equação exponencial 2^(x+1) = 16?",
@@ -150,7 +182,9 @@
     "c": "3",
     "d": "4",
     "e": "5",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Funções Exponenciais"
   },
   {
     "comando": "A área de um círculo com diâmetro de 10 cm é: (Use π = 3,14)",
@@ -159,7 +193,9 @@
     "c": "78,5 cm²",
     "d": "157 cm²",
     "e": "314 cm²",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Geometria"
   },
   {
     "comando": "Se A = {1, 2, 3} e B = {2, 3, 4}, então A ∩ B é:",
@@ -168,7 +204,9 @@
     "c": "{1, 4}",
     "d": "{2, 3}",
     "e": "{1, 2, 3, 4}",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "",
+    "disciplina": "Teoria dos Conjuntos"
   },
   {
     "comando": "Qual é o valor de 1 + 1/2 + 1/4 + 1/8 + ... (soma infinita)?",
@@ -177,7 +215,9 @@
     "c": "2,5",
     "d": "3",
     "e": "3,5",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Sequências e Progressões"
   },
   {
     "comando": "Se um retângulo tem perímetro de 30 cm e largura de 5 cm, qual é seu comprimento?",
@@ -186,7 +226,9 @@
     "c": "15 cm",
     "d": "20 cm",
     "e": "25 cm",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Geometria"
   },
   {
     "comando": "A derivada da função f(x) = 4x³ - 2x² + 5x - 1 é:",
@@ -195,7 +237,9 @@
     "c": "4x² - 2x + 5",
     "d": "12x³ - 4x² + 5",
     "e": "4x - 2",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "",
+    "disciplina": "Cálculo"
   },
   {
     "comando": "Qual é o valor de sen(π/6)?",
@@ -204,7 +248,9 @@
     "c": "√2/2",
     "d": "√3/2",
     "e": "1",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "",
+    "disciplina": "Trigonometria"
   },
   {
     "comando": "Se 2^x = 8^(y+1) e 3^y = 9^(x-1), então x + y é igual a:",
@@ -213,7 +259,9 @@
     "c": "5",
     "d": "6",
     "e": "7",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "",
+    "disciplina": "Álgebra"
   },
   {
     "comando": "A probabilidade de obter um número par ao lançar um dado comum de 6 faces é:",
@@ -222,510 +270,624 @@
     "c": "1/2",
     "d": "2/3",
     "e": "5/6",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "",
+    "disciplina": "Probabilidade"
   },
   {
-    "comando": "(ENEM 2022) Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00. A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores. Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,",
+    "comando": "(ENEM 2022) Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. O[...]",
     "a": "14,4",
     "b": "20,7",
     "c": "22,0",
     "d": "30",
     "e": "37,5",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2022",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2022) Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos. A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é",
+    "comando": "(ENEM 2022) Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticid[...]",
     "a": "0,125",
     "b": "0,200",
     "c": "4,800",
     "d": "6,000",
     "e": "12,000",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2022",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2022) Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. No planeta Z, seu ano corresponderia a quantos de seus dias?",
+    "comando": "(ENEM 2022) Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo d[...]",
     "a": "2,5",
     "b": "10,0",
     "c": "730,0",
     "d": "13 322,5",
     "e": "53 290,0",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2022",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2022) Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal. Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado. O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi",
+    "comando": "(ENEM 2022) Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento[...]",
     "a": "R$ 2,00 menor.",
     "b": "R$ 100,00 menor.",
     "c": "R$ 200,00 menor.",
     "d": "R$ 42,00 maior.",
     "e": "R$ 80,00 maior.",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2022",
+    "disciplina": "Porcentagem"
   },
   {
-    "comando": "(ENEM 2022) Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi",
+    "comando": "(ENEM 2022) Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o númer[...]",
     "a": "135 000,00.",
     "b": "1 350 000,00.",
     "c": "13 500 000,00.",
     "d": "135 000 000,00.",
     "e": "1 350 000 000,00.",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2022",
+    "disciplina": "Notação e Operações Numéricas"
   },
   {
-    "comando": "(ENEM 2022) Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?",
+    "comando": "(ENEM 2022) Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esfér[...]",
     "a": "2",
     "b": "3",
     "c": "6",
     "d": "12",
     "e": "24",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2022",
+    "disciplina": "Geometria Espacial"
   },
   {
-    "comando": "(ENEM 2022) Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012. De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi",
+    "comando": "(ENEM 2022) Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Ger[...]",
     "a": "16 514.",
     "b": "86 700.",
     "c": "115 600.",
     "d": "441 343.",
     "e": "448 568.",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2022",
+    "disciplina": "Operações Numéricas"
   },
   {
-    "comando": "(ENEM 2022) A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2 . Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+    "comando": "(ENEM 2022) A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times qu[...]",
     "a": "35/64",
     "b": "40/64",
     "c": "42/64",
     "d": "44/64",
     "e": "52/64",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2022",
+    "disciplina": "Probabilidade"
   },
   {
-    "comando": "(ENEM 2022) O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo. A empresa que comercializa esse jogo decidiu criar um pacote especial que será vendido a R$ 100,00 e que se diferenciará do pacote básico por apresentar maiores quantidades de gemas e moedas de ouro. Para estimular as vendas desse novo pacote, a empresa decidiu inserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso optasse por comprar, com a mesma quantia, dois pacotes básicos. A quantidade de moedas de ouro que a empresa deverá inserir ao pacote especial, para que seja mantida a mesma proporção existente entre as quantidades de gemas e de moedas de ouro contidas no pacote básico, é",
+    "comando": "(ENEM 2022) O pacote básico de um jogo para smartphone, que é vendido a R$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo. A empresa que [...]",
     "a": "50 000",
     "b": "100 000",
     "c": "200 000",
     "d": "300 000",
     "e": "400 000",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2022",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2022) Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida, dando continuidade a seu treino, corre mais 2 voltas em torno do circuito maior e 1 volta em torno do menor, percorrendo mais 1 100 m. No segundo dia, ele pretende percorrer 5 000 m nos circuitos do parque, fazendo um número inteiro de voltas em torno deles e de modo que o número de voltas seja o maior possível. A soma do número de voltas em torno dos dois circuitos, no segundo dia, será",
+    "comando": "(ENEM 2022) Um parque tem dois circuitos de tamanhos diferentes para corridas. Um corredor treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do ci[...]",
     "a": "10",
     "b": "13",
     "c": "14",
     "d": "15",
     "e": "16",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2022",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2022) Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor do veículo. Atualmente, ela oferece 7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação aos opcionais, existem 3 escolhas possíveis: central multimídia, rodas de liga leve e bancos de couro, podendo o cliente optar por incluir um, dois, três ou nenhum dos opcionais disponíveis. Para ser fiel à divulgação feita, a quantidade mínima de cores que a montadora deverá disponibilizar a seus clientes é",
+    "comando": "(ENEM 2022) Uma montadora de automóveis divulgou que oferta a seus clientes mais de 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais e a cor[...]",
     "a": "8",
     "b": "9",
     "c": "11",
     "d": "18",
     "e": "24",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2022",
+    "disciplina": "Análise Combinatória"
   },
   {
-    "comando": "(ENEM 2022) Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem que os fabricantes de refrigeradores indicam que, para um bom funcionamento e fácil manejo na limpeza, esses eletrodomésticos devem ser colocados em espaços que permitam uma distância de, pelo menos, 10 cm de outros móveis ou paredes, tanto na parte superior quanto nas laterais. O casal comprou um refrigerador que caberia no local a ele destinado na nova cozinha, seguindo as instruções do fabricante. Esse refrigerador tem altura e largura máximas, em metro, respectivamente, iguais a",
+    "comando": "(ENEM 2022) Um casal está reformando a cozinha de casa e decidiu comprar um refrigerador novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que o espaç[...]",
     "a": "1,80 e 0,60.",
     "b": "1,80 e 0,70.",
     "c": "1,90 e 0,80.",
     "d": "2,00 e 0,90.",
     "e": "2,00 e 1,00.",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2022",
+    "disciplina": "Geometria"
   },
   {
-    "comando": "(ENEM 2022) Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida contra cada uma das demais equipes de seu grupo. A primeira e a segunda colocadas de cada grupo seguem para realizar as 8 partidas da próxima fase do torneio, chamada oitavas de final. Os vencedores das partidas das oitavas de final seguem para jogar as 4 partidas das quartas de final. Os vencedores das quartas de final disputam as 2 partidas das semifinais, e os vencedores avançam para a grande final, que define a campeã do torneio. Pelas regras do torneio, cada equipe deve ter um período de descanso de, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se um time disputar uma partida, por exemplo, num domingo, só poderá disputar a partida seguinte a partir da quinta-feira da mesma semana. O número mínimo de dias necessários para a realização desse torneio é",
+    "comando": "(ENEM 2022) Foram convidadas 32 equipes para um torneio de futebol, que foram divididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única partida[...]",
     "a": "22",
     "b": "25",
     "c": "28",
     "d": "48",
     "e": "64",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2022",
+    "disciplina": "Análise Combinatória"
   },
   {
-    "comando": "(ENEM 2022) Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será utilizado para a fabricação de esferas maciças com diâmetro de 1 cm, a serem usadas para confeccionar rolamentos. Para estimar a quantidade de esferas que poderão ser produzidas a partir de cada uma das peças cilíndricas, admite-se que não ocorre perda de material durante o processo de derretimento. Quantas dessas esferas poderão ser obtidas a partir de cada peça cilíndrica?",
+    "comando": "(ENEM 2022) Peças metálicas de aeronaves abandonadas em aeroportos serão recicladas. Uma dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a 4[...]",
     "a": "800",
     "b": "1200",
     "c": "2400",
     "d": "4800",
     "e": "6400",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2022",
+    "disciplina": "Geometria Espacial"
   },
   {
-    "comando": "(ENEM 2022) Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo das 3 horas seguintes ao final da atividade, uma quantidade total de água correspondente a 40% a mais do que a massa perdida na atividade física, para evitar desidratação. Seguindo a recomendação médica, uma dessas pessoas ingeriu, certo dia, um total de 1,7 L de água após terminar seus exercícios físicos. Para que a recomendação médica tenha efetivamente sido respeitada, a atividade física dessa pessoa, nesse dia, durou",
+    "comando": "(ENEM 2022) Um médico faz o acompanhamento clínico de um grupo de pessoas que realizam atividades físicas diariamente. Ele observou que a perda média de massa dessas pessoas para c[...]",
     "a": "30 minutos ou menos.",
     "b": "mais de 35 e menos de 45 minutos.",
     "c": "mais de 45 e menos de 55 minutos.",
     "d": "mais de 60 e menos de 70 minutos.",
     "e": "70 minutos ou mais.",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2022",
+    "disciplina": "Estatística"
   },
   {
-    "comando": "(ENEM 2021)  Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m² cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00 cada, e os demais, R$ 30 000,00 cada. Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a",
+    "comando": "(ENEM 2021)  Uma unidade de medida comum usada para expressar áreas de terrenos de grandes dimensões é o hectare, que equivale a 10 000 m². Um fazendeiro decide fazer um loteamento[...]",
     "a": "700 000",
     "b": "1 600 000",
     "c": "1 900 000",
     "d": "2 200 000",
     "e": "2 800 000",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2021",
+    "disciplina": "Geometria"
   },
   {
-    "comando": "(ENEM 2021)  Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades: (i) um laboratório do tipo A, com capacidade para 100 usuários, a um custo de 180 mil reais e gastos de 60 mil reais por ano para manutenção; (ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil reais e gastos com manutenção de 16 mil reais por ano. Considera-se que, em qualquer caso, o laboratório implantado será utilizado na totalidade de sua capacidade. A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório tipo A, num período de 4 anos, por usuário, será de",
+    "comando": "(ENEM 2021)  Os diretores de uma escola precisam construir um laboratório para uso dos alunos. Há duas possibilidades: (i) um laboratório do tipo A, com capacidade para 100 usuário[...]",
     "a": "1,31 mil reais.",
     "b": "1,90 mil reais.",
     "c": "2,30 mil reais.",
     "d": "2,36 mil reais.",
     "e": "2,95 mil reais.",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2021",
+    "disciplina": "Análise de Dados"
   },
   {
-    "comando": "(ENEM 2021)  Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária de, pelo menos, R$ 300,00. Para não ter prejuízo, o menor número de lavagens diárias que o lava-rápido deve efetuar é",
+    "comando": "(ENEM 2021)  Um lava-rápido oferece dois tipos de lavagem de veículos: lavagem simples, ao preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas com [...]",
     "a": "6",
     "b": "8",
     "c": "9",
     "d": "15",
     "e": "20",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2021",
+    "disciplina": "Sistemas Lineares"
   },
   {
-    "comando": "(ENEM 2021)  Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos. O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+    "comando": "(ENEM 2021)  Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1[...]",
     "a": "15,9",
     "b": "16,1",
     "c": "16,4",
     "d": "17,4",
     "e": "18,0",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2021",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2021)  Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção de um reservatório. Ele deverá ter a forma de um cilindro circular reto, cuja base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é completamente reabastecido por carros-pipa. Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3 como aproximação para π. Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna mínima, em metro, igual a",
+    "comando": "(ENEM 2021)  Um povoado com 100 habitantes está passando por uma situação de seca prolongada e os responsáveis pela administração pública local decidem contratar a construção [...]",
     "a": "1,12",
     "b": "3,10",
     "c": "4,35",
     "d": "4,48",
     "e": "5,60",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2021",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2021) Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham à mesma velocidade e cada grupo trabalha em um único pneu. Com os quatro grupos completos, são necessários 4 segundos para que a troca seja efetuada. O tempo gasto por um grupo para trocar um pneu é inversamente proporcional ao número de pessoas trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde participar da troca e nem foi substituído, de forma que um dos quatro grupos de troca ficou reduzido. Nessa parada específica, com um dos grupos reduzido, qual foi o tempo gasto, em segundo, para trocar os quatro pneus?",
+    "comando": "(ENEM 2021) Em uma corrida automobilística, os carros podem fazer paradas nos boxes para efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas em c[...]",
     "a": "6,0",
     "b": "5,7",
     "c": "5,0",
     "d": "4,5",
     "e": "4,0",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2021",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2021) Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar 10% de passageiros a mais do que o modelo A, mas consumindo 10% menos combustível por quilômetro e por passageiro. A quantidade de combustível consumida pelo modelo de aeronave B, em relação à do modelo de aeronave A, em um voo lotado entre as duas cidades, é",
+    "comando": "(ENEM 2021) Para realizar um voo entre duas cidades que distam 2 000 km uma da outra, uma companhia aérea utilizava um modelo de aeronave A, capaz de transportar até 200 passageiros.[...]",
     "a": "10% menor",
     "b": "1% menor",
     "c": "igual",
     "d": "1% maior",
     "e": "11% maior",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2021",
+    "disciplina": "Porcentagem"
   },
   {
-    "comando": "(ENEM 2021) Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de 10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um período de três meses. O zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração pelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra. Para avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV) que é uma medida de dispersão definida por CV, em que s representa o desvio padrão e x, a média das massas dos coelhos que foram alimentados com uma determinada ração. O zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a nova ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a ração atual. A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior a",
+    "comando": "(ENEM 2021) Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média d[...]",
     "a": "5,0",
     "b": "9,5",
     "c": "10,0",
     "d": "10,5",
     "e": "15,0",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2021",
+    "disciplina": "Estatística"
   },
   {
-    "comando": "(ENEM 2021) Os Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias. Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+    "comando": "(ENEM 2021) Os Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de h[...]",
     "a": " P = d.n + L + d.n.s",
     "b": "P = d.n + L + d.s",
     "c": "P = d + L + s",
     "d": "P = d.n.s + L",
     "e": "P = d.n + L + s",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2021",
+    "disciplina": "Álgebra"
   },
   {
-    "comando": "(ENEM 2021) O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, probabilidade de acertar um dardo no alvo. de A fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador 9 pontuar em uma rodada seja igual ou superior a 10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada. Com base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+    "comando": "(ENEM 2021) O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança[...]",
     "a": "2",
     "b": "4",
     "c": "6",
     "d": "9",
     "e": "10",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2021",
+    "disciplina": "Análise Combinatória"
   },
   {
-    "comando": "(ENEM 2024) em dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60 . A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100 , considerando os eventos independentes. Para isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+    "comando": "(ENEM 2024) em dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada[...]",
     "a": "1,35",
     "b": "3,00",
     "c": "9,00",
     "d": "12,60",
     "e": "13,80",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2024",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2024) Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual f ixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do f inanciamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível. Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+    "comando": "(ENEM 2024) Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado[...]",
     "a": "Fevereiro",
     "b": "Abril",
     "c": "Maio",
     "d": "Junho",
     "e": "Agosto",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2024",
+    "disciplina": "Sequências e Progressões"
   },
   {
-    "comando": "(ENEM 2024) Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina. A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+    "comando": "(ENEM 2024) Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema[...]",
     "a": "8250",
     "b": "7920",
     "c": "6545",
     "d": "5500",
     "e": "5280",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2024",
+    "disciplina": "Geometria e Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2024) Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma porção é R$ 25,00. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será R$ 15,00, e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo. A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção ?",
+    "comando": "(ENEM 2024) Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma por[...]",
     "a": "12,50",
     "b": "20,00",
     "c": "24,00",
     "d": "30,00",
     "e": "37,50",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2024",
+    "disciplina": "Sistemas Lineares"
   },
   {
-    "comando": "(ENEM 2024) Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente. O valor correto da média das notas desse estudante é",
+    "comando": "(ENEM 2024) Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, [...]",
     "a": "4",
     "b": "5",
     "c": "6",
     "d": "19",
     "e": "21",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2024",
+    "disciplina": "Álgebra"
   },
   {
-    "comando": "(ENEM 2024) Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e, normalmente, 60% das pessoas adquirem meia-entrada, pagando R$ 65,00 pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de shows vende, com 60% de lucro, bebidas e petiscos ao público no dia do evento. Após ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50% o que estava previsto, impactando o faturamento estimado com a venda de ingressos. No dia do evento, decidiu-se manter o percentual de 60% de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de R$ 17 000,00 nesse evento. Para que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+    "comando": "(ENEM 2024) Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e, normalm[...]",
     "a": "19,50",
     "b": "28,80",
     "c": "34,00",
     "d": "52,00",
     "e": "68,70",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2024",
+    "disciplina": "Análise de Dados"
   },
   {
-    "comando": "(ENEM 2024) O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m. Em quantos metros quadrados a área do campo do Maracanã foi reduzida ?",
+    "comando": "(ENEM 2024) O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangula[...]",
     "a": "24",
     "b": "35",
     "c": "555",
     "d": "1110",
     "e": "1145",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2024",
+    "disciplina": "Geometria"
   },
   {
-    "comando": "(ENEM 2024) O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m2. Considere que a escala da maquete exibida é 1 : 200. A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+    "comando": "(ENEM 2024) O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja[...]",
     "a": "4,18",
     "b": "8,36",
     "c": "41,80",
     "d": "83,60",
     "e": "418,00",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2024",
+    "disciplina": "Geometria"
   },
   {
-    "comando": "(ENEM 2024) Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível. Qual será a medida, em metro, do maior lado do galinheiro ?",
+    "comando": "(ENEM 2024) Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados [...]",
     "a": "85",
     "b": "100",
     "c": "175",
     "d": "200",
     "e": "350",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2024",
+    "disciplina": "Geometria"
   },
   {
-    "comando": "(ENEM 2023) Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos, o que de fato tem impacto positivo no desenvolvimento do praticante. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada. Um casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos. A quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é.",
+    "comando": "(ENEM 2023) Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ain[...]",
     "a": "1",
     "b": "4",
     "c": "6",
     "d": "7",
     "e": "8",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2023",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2023) A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre. O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+    "comando": "(ENEM 2023) A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela com[...]",
     "a": "(5,0 ; 5,5).",
     "b": "(8,0 ; 8,5).",
     "c": "(11,5 ; 12,5).",
     "d": "(19,5 ; 20,5).",
     "e": "(3,5 ; 4,0).",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2023",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2023) O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab. De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família ?",
+    "comando": "(ENEM 2023) O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab,[...]",
     "a": "741",
     "b": "1 040",
     "c": "1 460",
     "d": "2 100",
     "e": "5 200",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2023",
+    "disciplina": "Mínimo Múltiplo Comum"
   },
   {
-    "comando": "(ENEM 2023) No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram para morar no local. Para escolher quem ficará com o quarto, um sorteio será realizado. Para esse sorteio, cartões individuais com os nomes de todos os estudantes inscritos serão depositados em uma urna, sendo que, para cada estudante de primeiro ano, será depositado um único cartão com seu nome; para cada estudante de segundo ano, dois cartões com seu nome; e, para cada estudante de terceiro ano, três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150 de segundo ano e 100 de terceiro ano. Todos os cartões têm a mesma probabilidade de serem sorteados. Qual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano ?",
+    "comando": "(ENEM 2023) No alojamento de uma universidade, há alguns quartos com o padrão superior ao dos demais. Um desses quartos ficou disponível, e muitos estudantes se candidataram pa[...]",
     "a": "1/2",
     "b": "1/3",
     "c": "1/8",
     "d": "2/9",
     "e": "3/8",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2023",
+    "disciplina": "Probabilidade"
   },
   {
-    "comando": "(ENEM 2023) A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador desse vilarejo consome, em média, 200 litros de água por dia. No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água durante os 10 dias seguintes. Considere 3 como aproximação para π. Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias ?",
+    "comando": "(ENEM 2023) A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido[...]",
     "a": "50",
     "b": "60",
     "c": "80",
     "d": "140",
     "e": "150",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2023",
+    "disciplina": "Geometria Espacial"
   },
   {
-    "comando": "(ENEM 2023) Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano. O número mínimo de salas que deverão ser construídas é",
+    "comando": "(ENEM 2023) Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 cri[...]",
     "a": "10",
     "b": "11",
     "c": "13",
     "d": "30",
     "e": "33",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2023",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2023) Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez. Quantos dias após iniciado esse método o agricultor deverá aplicar o produto X ?",
+    "comando": "(ENEM 2023) Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas [...]",
     "a": "2",
     "b": "4",
     "c": "6",
     "d": "12",
     "e": "18",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2023",
+    "disciplina": "Funções Exponenciais"
   },
   {
-    "comando": "(ENEM 2023) Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4% da receita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho. A quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é",
+    "comando": "(ENEM 2023) Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe po[...]",
     "a": "1",
     "b": "2",
     "c": "3",
     "d": "4",
     "e": "5",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2023",
+    "disciplina": "Análise de Dados"
   },
   {
-    "comando": "(ENEM 2023) Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada número de inscrição será realizado em etapas, utilizando-se duas urnas. Da primeira urna será sorteada uma bola, dentre bolas numeradas de 0 a 9, que representará o algarismo das unidades do número de inscrição a ser sorteado e, em seguida, da segunda urna, será sorteada uma bola para representar o algarismo das dezenas desse número. Depois do primeiro sorteio, e antes de se sortear o algarismo das dezenas, as bolas que estarão presentes na segunda urna serão apenas aquelas cujos números formam, com o algarismo já sorteado, um número de 01 a 55. As probabilidades de os candidatos de inscrição número 50 e 02 serem sorteados são, respectivamente",
+    "comando": "(ENEM 2023) Em um colégio público, a admissão no primeiro ano se dá por sorteio. Neste ano há 55 candidatos, cujas inscrições são numeradas de 01 a 55. O sorteio de cada n[...]",
     "a": "1/50 e 1/60",
     "b": "1/50 e 1/50",
     "c": "1/50 e 1/10",
     "d": "1/55 e 1/54",
     "e": "1/100 e 1/100",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2023",
+    "disciplina": "Probabilidade"
   },
   {
-    "comando": "(ENEM 2023) Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas. Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+    "comando": "(ENEM 2023) Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilida[...]",
     "a": "C = 0,9q",
     "b": "C = 0,1q",
     "c": "C = 1 − 0,1q",
     "d": "C = 1 − 0,9q",
     "e": "C = q − 10",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2023",
+    "disciplina": "Álgebra"
   },
   {
-    "comando": "(ENEM 2023) Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua próxima compra. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B disponibilizadas pelo gerente, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna. Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas. Qual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B ?",
+    "comando": "(ENEM 2023) Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher para ser usado em sua pr[...]",
     "a": "20",
     "b": "60",
     "c": "64",
     "d": "68",
     "e": "80",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2023",
+    "disciplina": "Probabilidade"
   },
   {
-    "comando": "(ENEM 2023) Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço y do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume x de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00. A expressão que representa o preço y em função do volume x, em metro cúbico, é",
+    "comando": "(ENEM 2023) Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço y do concreto bombeado é composto de duas partes: uma[...]",
     "a": "y = 250x",
     "b": "y = 500x",
     "c": "y = 750x",
     "d": "y = 250x + 500",
     "e": "y = 500x + 250",
-    "gabarito": "d"
+    "gabarito": "d",
+    "ano": "2023",
+    "disciplina": "Álgebra"
   },
   {
-    "comando": "(ENEM 2023) O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos. Qual o preço, em real, de uma cartela de tíquetes vermelhos ?",
+    "comando": "(ENEM 2023) O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mes[...]",
     "a": "4,68",
     "b": "6,30",
     "c": "9,30",
     "d": "10,50",
     "e": "10,65",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2023",
+    "disciplina": "Análise de Dados"
   },
   {
-    "comando": "(ENEM 2020) Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é",
+    "comando": "(ENEM 2020) Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto [...]",
     "a": "13",
     "b": "14",
     "c": "17",
     "d": "18",
     "e": "21",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2020",
+    "disciplina": "Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2020) A caixa-d’água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa-d’água tem dimensões 2 cm × 3,51 cm × 4 cm. Dado: 1 dm³ = 1 L. A escala usada pelo arquiteto foi",
+    "comando": "(ENEM 2020) A caixa-d'água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a ca[...]",
     "a": "1 : 10",
     "b": "1 : 100",
     "c": "1 : 1 000",
     "d": "1 : 10 000",
     "e": "1 : 100 000",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2020",
+    "disciplina": "Escala e Proporcionalidade"
   },
   {
-    "comando": "(ENEM 2020) Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo. Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos ?",
+    "comando": "(ENEM 2020) Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cad[...]",
     "a": "160",
     "b": "157",
     "c": "130",
     "d": "120",
     "e": "60",
-    "gabarito": "a"
+    "gabarito": "a",
+    "ano": "2020",
+    "disciplina": "Análise Combinatória"
   },
   {
-    "comando": "(ENEM 2020) Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada. As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são",
+    "comando": "(ENEM 2020) Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representa[...]",
     "a": "2 quadrados e 4 retângulos.",
     "b": "1 retângulo e 4 triângulos isósceles.",
     "c": "2 quadrados e 4 trapézios isósceles.",
     "d": "1 quadrado, 3 retângulos e 2 trapézios retângulos.",
     "e": "2 retângulos, 2 quadrados e 2 trapézios retângulos.",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2020",
+    "disciplina": "Geometria Espacial"
   },
   {
-    "comando": "(ENEM 2020) Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado. Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto ?",
+    "comando": "(ENEM 2020) Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma[...]",
     "a": "4 301",
     "b": "1 500",
     "c": "930",
     "d": "267",
     "e": "93",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2020",
+    "disciplina": "Proporcionalidade"
   },
-    {
-    "comando": "(ENEM 2020) Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é",
+  {
+    "comando": "(ENEM 2020) Uma loja de materiais de construção vende dois tipos de caixas-d'água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da cai[...]",
     "a": "R/2",
     "b": "2 R",
     "c": "4 R",
     "d": "5 R",
     "e": "16 R",
-    "gabarito": "b"
+    "gabarito": "b",
+    "ano": "2020",
+    "disciplina": "Geometria Espacial"
   },
-    {
-    "comando": "(ENEM 2020) Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”. Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras. Nessas condições, o número de anagramas formados é dado por",
+  {
+    "comando": "(ENEM 2020) Nos livros Harry Potter, um anagrama do nome do personagem \"TOM MARVOLO RIDDLE\" gerou a frase \"I AM LORD VOLDEMORT\". Suponha que Harry quisesse formar todos os[...]",
     "a": "9!",
     "b": "4! 5!",
     "c": "2 x 4! 5!",
     "d": "9! / 2",
     "e": "4!5! / 2",
-    "gabarito": "e"
+    "gabarito": "e",
+    "ano": "2020",
+    "disciplina": "Análise Combinatória"
   },
-    {
-    "comando": "(ENEM 2020) O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fi xará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido. Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fi xar para o grupo de três novos jogadores que ainda irá contratar ?",
+  {
+    "comando": "(ENEM 2020) O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem pa[...]",
     "a": "1,96",
     "b": "1,98",
     "c": "2,05",
     "d": "2,06",
     "e": "2,08",
-    "gabarito": "D"
+    "gabarito": "d",
+    "ano": "2020",
+    "disciplina": "Estatística"
   },
-    {
-    "comando": "(ENEM 2020) Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios. A fração do capital de cada sócio que Antônio deverá adquirir é",
+  {
+    "comando": "(ENEM 2020) Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção [...]",
     "a": "1/2",
     "b": "1/3",
     "c": "1/9",
     "d": "2/3",
     "e": "4/3",
-    "gabarito": "c"
+    "gabarito": "c",
+    "ano": "2020",
+    "disciplina": "Proporcionalidade"
   }
 ]
